@@ -7,12 +7,12 @@
 
 
 
-##Example Images.
-From Side:
+<h1>Example Images.</h1>
+<h6>Front Side:</h6>
 <img src="https://raw.githubusercontent.com/Sayyednaa/Marksheet-Generator/main/Example.png"/>
-BackSide:-
+<h6>BackSide:-</h6>
 
-#Disclaimer:
+<h1>Disclaimer:</h1>
 - 💬 Disclaimer **Use For Educational and legal purposes only.I will not responsible any step taken by you.**
 
 - 💬 Disclaimer **صرف تعلیمی اور قانونی مقاصد کے لئے استعمال کریں۔ میں آپ کے ذریعہ اٹھائے گئے کسی بھی اقدام کا ذمہ دار نہیں ہوں گا۔**
