@@ -10,7 +10,7 @@
 
 
 #Disclaimer:
-- 💬 Disclaimer **Use For Educational and legal purposes only author of the i will not responsible any steps taken by you.**
+- 💬 Disclaimer **Use For Educational and legal purposes only.I will not responsible any step taken by you.**
 
 - 💬 Disclaimer **صرف تعلیمی اور قانونی مقاصد کے لئے استعمال کریں۔ میں آپ کے ذریعہ اٹھائے گئے کسی بھی اقدام کا ذمہ دار نہیں ہوں گا۔**
 
