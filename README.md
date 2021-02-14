@@ -24,7 +24,7 @@
 
 
 <h3 style="color:red;">Project Code Will Be Uploaded Soon</h3>
-
+<p>For detailed Usage of Marksheet Generator Software read the article. Link is below<p>
 <a href="https://nawababdulali.blogspot.com/marksheet-generator-software" target="__blank" > How To Use The Marksheet Generator Software</a>
 
 
