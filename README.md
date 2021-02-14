@@ -9,7 +9,7 @@
 
 <h1>Example Images.</h1>
 <h6>Front Side:</h6>
-<img src="https://raw.githubusercontent.com/Sayyednaa/Marksheet-Generator/main/Example.png"/>
+
 <h6>BackSide:-</h6>
 <img src="https://github.com/Sayyednaa/Marksheet-Generator/blob/main/ExampleBack.png?raw=true"/>
 
